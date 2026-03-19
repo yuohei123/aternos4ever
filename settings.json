@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "ricoiscool.aternos.me", 
-    "port": 56559,   
-    "version": "1.12.1"   
+    "ip": "ward1.aternos.me", 
+    "port": 35547,   
+    "version": "1.21.1"   
   },
   
   "position": {
